@@ -2,11 +2,8 @@
 def openTestOnly = new.com.mcd.OpenTestOnlyPipeline()
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 this is from new branch
 =======
 >>>>>>> parent of 3d55687 (this is from new)
-=======
->>>>>>> parent of 8e7fbf9 (Merge pull request #1 from sjcsvu1/new)
 =======
 >>>>>>> parent of 8e7fbf9 (Merge pull request #1 from sjcsvu1/new)
